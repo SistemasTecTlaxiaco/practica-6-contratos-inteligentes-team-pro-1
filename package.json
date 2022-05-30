@@ -1,0 +1,14 @@
+{
+  "name": "kirus21",
+  "version": "1.0.0",
+  "description": "test Smartcontract",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kirus21",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
